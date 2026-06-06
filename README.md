@@ -305,7 +305,7 @@ The project demonstrated the importance of preprocessing, class balancing, and e
 ### Clone Repository
 
 ```bash
-git clone <repository-url>
+https://github.com/hirohith/Credit-Scoring-ML-Project.git
 ```
 
 ### Install Dependencies
